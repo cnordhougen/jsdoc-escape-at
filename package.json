@@ -1,0 +1,22 @@
+{
+  "name": "jsdoc-escape-at",
+  "version": "1.0.0",
+  "description": "JSDoc plugin allowing the use of an @ sign in comments, examples, & descriptions by escaping it with a backslash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnordhougen/jsdoc-escape-at.git"
+  },
+  "keywords": [
+    "jsdoc"
+  ],
+  "author": "Chris Nordhougen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnordhougen/jsdoc-escape-at/issues"
+  },
+  "homepage": "https://github.com/cnordhougen/jsdoc-escape-at#readme"
+}
