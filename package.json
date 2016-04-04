@@ -1,6 +1,6 @@
 {
   "name": "jsdoc-escape-at",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSDoc plugin allowing the use of an @ sign in comments, examples, & descriptions by escaping it with a backslash.",
   "main": "index.js",
   "scripts": {
