@@ -1,5 +1,5 @@
 var replacementToken = '{REPLACE-AT}',
-    tokenRegex       = new RegExp(replacementToken);
+    tokenRegex       = new RegExp(replacementToken, 'g');
 
 function restoreAt( str ) { return str.replace(tokenRegex, '@'); }
 
